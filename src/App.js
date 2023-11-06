@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import Staking from "./Staking"
-import NavBar from "./NavBar"
+import NavBar from "./Bar"
 
 function App(){
   const [accounts, setAccounts] = useState([]);
